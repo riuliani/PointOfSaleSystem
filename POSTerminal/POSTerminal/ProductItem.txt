@@ -1,0 +1,13 @@
+1,Cheeseburger(s),Burger,A single patty with cheese,4.00
+2,Double cheeseburger(s),Burger,Two patties with cheese,5.00
+3,Cheesesticks,Bread,Fresh bread covered with 4 types of cheese,3.50
+4,Chicken nuggets,Fry food,Juicy and tender pieces of chicken deep fried,4.50
+5,French Fries,Fried food,Regular potatoes cut up fired and coded in salt,3.00
+6,Onion Rings,Fried food,Onions cut beer battered & deep fried in olive oil,4.00
+7,Coca Cola(s),Beverage,Caffinated soft drink,1.00
+8,Diet Coke(s),Beverage,Diet Caffinated soft drink,1.00
+9,Sprite(s),Beverage,Non caffinated soda,1.00
+10,Water(s),Beverage,Spring water,1.00
+11,Vanilla Ice Cream,Dairy,A scoop of vanilla ice cream,1.50
+12,Chocolate Ice Cream,Dairy,A scoop of chocolate ice cream,1.50
+13,Cider,Beverage,Homemade Cider,3
